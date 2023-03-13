@@ -1,0 +1,33 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  max-width: 1350px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+}
+.logo {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 54px;
+
+  color: #ffffff;
+}
+.navigation {
+}
+.navigation__list {
+}
+.btn {
+}
+.main__title {
+}
+.main__text {
+}
+.btns {
+}
+.btn--accent {
+}
